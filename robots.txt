@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow: /dummy.html
 
 Sitemap: http://cxy1117.github.io/task_instance5929401443680256/  
